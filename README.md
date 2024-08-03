@@ -44,6 +44,25 @@ This project is a Command Line Interface (CLI) tool built using Node.js that int
 
 2. **Enter your prompt**: After running the CLI, type your prompt and press enter to receive a response from Google Gemini.
 
+## Contributing
+
+If you would like to contribute to this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-branch`).
+3. Commit your changes (`git commit -m 'Add new feature'`).
+4. Push to the branch (`git push origin feature-branch`).
+5. Open a Pull Request.
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+Thanks to the creators of Node.js and the Google Gemini team for their powerful tools and APIs.
+
+
 ## Example
 
 ```bash
@@ -69,21 +88,4 @@ Imagine a shared, public ledger where everyone can see transactions but no one c
 
 **In a nutshell, blockchain is a technology that enables secure, transparent, and verifiable transactions, creating trust and efficiency in various industries.**
 
-## Contributing
-
-If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a Pull Request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-
-Thanks to the creators of Node.js and the Google Gemini team for their powerful tools and APIs.
 
