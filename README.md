@@ -37,8 +37,10 @@ This project is a Command Line Interface (CLI) tool built using Node.js that int
 
 1. **Run the CLI**:
     ```bash
-    node index.js
+    node cli.js prompt "Provide your prompt over here"
+    node cli.js p "Provide your prompt over here"
     ```
+    Both will works
 
 2. **Enter your prompt**: After running the CLI, type your prompt and press enter to receive a response from Google Gemini.
 
